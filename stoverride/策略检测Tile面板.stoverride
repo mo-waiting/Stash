@@ -1,6 +1,6 @@
 name: 策略检测Tile面板
 desc: 包含国内受限, 国内和国外. 自己设置对应域名的分流
-icon: "https://github.com/Joftal/QuantumultX-Icon/blob/master/QX-Icon/Available.png"
+icon: "https://github.com/namelessup/Koolson-Qure/blob/master/IconSet/Color/Global.png"
 
 tiles:
   - name: "策略检测"
