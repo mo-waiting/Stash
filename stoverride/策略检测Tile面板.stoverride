@@ -1,7 +1,7 @@
 name: 策略检测Tile面板
 desc: 包含国内受限, 国内和国外. 自己设置对应域名的分流
 icon: https://raw.githubusercontent.com/namelessup/Koolson-Qure/master/IconSet/Color/Global.png
-category: "磁贴"
+category: 磁贴
 tiles:
   - name: "策略检测"
     interval: 300
