@@ -4,11 +4,14 @@ desc: |-
   1、去除交互弹窗
   2、去除青少年弹窗
   3、去除部分广告
+  4、精简UI
 icon: https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/bilibili.png
 category: "去广告"
 
 http:
   mitm:
+    - "app.bilibili.com"
+    - "app.biliapi.net"
     - "manga.bilibili.com"
     - "api.live.bilibili.com"
     - "api.vc.bilibili.com"
@@ -33,6 +36,22 @@ http:
     - ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/ListFlash - reject-dict
     - ^https?:\/\/api\.live\.bilibili\.com\/xlive\/e-commerce-interface\/v1\/ecommerce-user\/get_shopping_info\? - reject-dict
   script:
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/resource\/show\/tab\/v2\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/account\/mine(\/ipad)?\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/region\/index\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/channel\/region\/list\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
     - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/feed\/index\?
       name: BiliBili.ADBlock.request.json
       type: request
@@ -102,6 +121,9 @@ http:
       argument:
 
 script-providers:
+  BiliBili.Enhanced.response:
+    url: https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/js/BiliBili.Enhanced.response.js
+    interval: 86400
   BiliBili.ADBlock.request.json:
     url: https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/js/BiliBili.ADBlock.request.js
     interval: 86400
