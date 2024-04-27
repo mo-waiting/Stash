@@ -10,8 +10,6 @@ category: "去广告"
 
 http:
   mitm:
-    - "app.bilibili.com"
-    - "app.biliapi.net"
     - "manga.bilibili.com"
     - "api.live.bilibili.com"
     - "api.vc.bilibili.com"
@@ -20,6 +18,8 @@ http:
     - "api.bilibili.com"
     - "api.biliapi.net"
     - "grpc.biliapi.net"
+    - "app.bilibili.com"
+    - "app.biliapi.net"
   url-rewrite:
     # 去除搜索中的默认关键词
     - ^https?:\/\/(grpc\.biliapi\.net|app\.bilibili\.com)\/bilibili\.app\.interface\.v1\.Search\/DefaultWords$ - reject
@@ -36,22 +36,6 @@ http:
     - ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/ListFlash - reject-dict
     - ^https?:\/\/api\.live\.bilibili\.com\/xlive\/e-commerce-interface\/v1\/ecommerce-user\/get_shopping_info\? - reject-dict
   script:
-    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/resource\/show\/tab\/v2\?
-      name: BiliBili.Enhanced.response
-      type: response
-      require-body: true
-    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/account\/mine(\/ipad)?\?
-      name: BiliBili.Enhanced.response
-      type: response
-      require-body: true
-    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/region\/index\?
-      name: BiliBili.Enhanced.response
-      type: response
-      require-body: true
-    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/channel\/region\/list\?
-      name: BiliBili.Enhanced.response
-      type: response
-      require-body: true
     - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/feed\/index\?
       name: BiliBili.ADBlock.request.json
       type: request
@@ -119,11 +103,24 @@ http:
       require-body: true
       binary-mode: true
       argument:
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/resource\/show\/tab\/v2\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/account\/mine(\/ipad)?\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/region\/index\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
+    - match: ^https?:\/\/app\.bili(bili\.com|api\.net)\/x\/v2\/channel\/region\/list\?
+      name: BiliBili.Enhanced.response
+      type: response
+      require-body: true
 
 script-providers:
-  BiliBili.Enhanced.response:
-    url: https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/js/BiliBili.Enhanced.response.js
-    interval: 86400
   BiliBili.ADBlock.request.json:
     url: https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/js/BiliBili.ADBlock.request.js
     interval: 86400
@@ -132,4 +129,7 @@ script-providers:
     interval: 86400
   BiliBili.ADBlock.response.grpc:
     url: https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/js/BiliBili.ADBlock.response.js
+    interval: 86400
+  BiliBili.Enhanced.response:
+    url: https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/js/BiliBili.Enhanced.response.js
     interval: 86400
