@@ -1,6 +1,6 @@
 name: Youtube (Music) Enhance
 desc: 适用于 Youtube & Youtube Music (IOS >= 15)
-icon: https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/YouTube.png
+icon: https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube.png
 arguments: |-
   屏蔽上传按钮:true,屏蔽选段按钮:true,字幕翻译语言:zh-Hans,歌词翻译语言:zh-Hans
 arguments-desc: |-
