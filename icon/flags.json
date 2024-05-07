@@ -1,0 +1,62 @@
+{
+ "name": "Countries Flags",
+ "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
+ "icons":[
+  {
+   "name": "China.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/China.png"
+  },   
+  {
+   "name": "United States.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-States.png"
+  }, 
+  {
+   "name": "United Kingdom.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-Kingdom.png"
+  }, 
+  {
+   "name": "Taiwan.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Taiwan.png"
+  }, 
+  {
+   "name": Hong Kong.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Hong-Kong.png"
+  }, 
+  {
+   "name": "Japan.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Japan.png"
+  }, 
+  {
+   "name": "South Korea.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/South-Korea.png"
+  }, 
+  {
+   "name": "Singapore.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Singapore.png"
+  }, 
+  {
+   "name": "Germany.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Germany.png"
+  }, 
+  {
+   "name": "Canada.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Canada.png"
+  }, 
+  {
+   "name": "Australia.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Australia.png"
+  }, 
+  {
+   "name": "Russia.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Russia.png"
+  }, 
+  {
+   "name": "France.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/France.png"
+  }, 
+  {
+   "name": "Netherlands.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Netherlands.png"
+  }, 
+ ]
+}
