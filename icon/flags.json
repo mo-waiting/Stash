@@ -3,71 +3,71 @@
  "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
  "icons":[
   {
-   "name": "CN-中国",
+   "name": "China",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/China.png"
   },   
   {
-   "name": "US-美国",
+   "name": "United States",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-States.png"
   }, 
   {
-   "name": "UK-英国",
+   "name": "United Kingdom",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-Kingdom.png"
   }, 
   {
-   "name": "TW-台湾",
+   "name": "Taiwan",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Taiwan.png"
   }, 
   {
-   "name": "HK-香港",
+   "name": "Hong Kong",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Hong-Kong.png"
   }, 
   {
-   "name": "JP-日本",
+   "name": "Japan",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Japan.png"
   }, 
   {
-   "name": "KR-韩国",
+   "name": "South Korea",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/South-Korea.png"
   }, 
   {
-   "name": "SG-新加坡",
+   "name": "Singapore",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Singapore.png"
   }, 
   {
-   "name": "DE-德国",
+   "name": "Germany",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Germany.png"
   }, 
   {
-   "name": "CA-加拿大",
+   "name": "Canada",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Canada.png"
   }, 
   {
-   "name": "AU-澳大利亚",
+   "name": "Australia",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Australia.png"
   }, 
   {
-   "name": "RU-俄罗斯",
+   "name": "Russia",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Russia.png"
   }, 
   {
-   "name": "FR-法国",
+   "name": "France",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/France.png"
   }, 
   {
-   "name": "NL-荷兰",
+   "name": "Netherlands",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Netherlands.png"
   }, 
     {
-   "name": "TR-土耳其",
+   "name": "Turkey",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Turkey.png"
   }, 
   {
-   "name": "PH-菲利宾",
+   "name": "Philippines",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Philippines.png"
   }, 
   {
-   "name": "MO-澳门",
+   "name": "Macao",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Macao.png"
   },
  ]
