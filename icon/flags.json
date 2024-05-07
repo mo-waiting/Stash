@@ -3,72 +3,72 @@
  "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
  "icons":[
   {
-   "name": "China",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/China.png"
+   "name": "CN-中国",
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/China.png"
   },   
   {
    "name": "United States",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-States.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-States.png"
   }, 
   {
    "name": "United Kingdom",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-Kingdom.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/United-Kingdom.png"
   }, 
   {
    "name": "Taiwan",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Taiwan.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Taiwan.png"
   }, 
   {
    "name": "Hong Kong",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Hong-Kong.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Hong-Kong.png"
   }, 
   {
    "name": "Japan",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Japan.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Japan.png"
   }, 
   {
    "name": "South Korea",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/South-Korea.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/South-Korea.png"
   }, 
   {
    "name": "Singapore",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Singapore.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Singapore.png"
   }, 
   {
    "name": "Germany",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Germany.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Germany.png"
   }, 
   {
    "name": "Canada",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Canada.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Canada.png"
   }, 
   {
    "name": "Australia",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Australia.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Australia.png"
   }, 
   {
    "name": "Russia",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Russia.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Russia.png"
   }, 
   {
    "name": "France",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/France.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/France.png"
   }, 
   {
    "name": "Netherlands",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Netherlands.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Netherlands.png"
   }, 
     {
    "name": "Turkey",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Turkey.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Turkey.png"
   }, 
   {
    "name": "Philippines",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Philippines.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Philippines.png"
   }, 
   {
    "name": "Macao",
-   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Macao.png"
+   "url": "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Macao.png"
   },
  ]
 }
