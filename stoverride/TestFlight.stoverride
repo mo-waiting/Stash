@@ -6,7 +6,7 @@ desc: |-
 openUrl: "http://boxjs.com/#/app/iRingo.TestFlight"
 author: "VirgilClyne"
 homepage: "https://github.com/VirgilClyne"
-icon: "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/TestFlight.png"
+icon: "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/TestFlight.png"
 
 http:
   mitm:
