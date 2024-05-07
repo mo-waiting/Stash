@@ -58,5 +58,17 @@
    "name": "NL 荷兰",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Netherlands.png"
   }, 
+    {
+   "name": "TR 土耳其",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Turkey.png"
+  }, 
+  {
+   "name": "PH 菲力宾",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Philippines.png"
+  }, 
+  {
+   "name": "MO 澳门",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/Countries-Flags/Macao.png"
+  },
  ]
 }
