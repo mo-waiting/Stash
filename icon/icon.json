@@ -1,0 +1,450 @@
+{
+ "name": "Commonly icon",
+ "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
+ "icons":[
+  {
+   "name": "ADBlock.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ADBlock.png"
+  }, 
+  {
+   "name": "Amazon.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Amazon.png"
+  }, 
+  {
+   "name": "Amazon_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Amazon_Letter.png"
+  }, 
+  {
+   "name": "App_Store.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/App_Store.png"
+  }, 
+  {
+   "name": App_Store_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/App_Store_1.png"
+  }, 
+  {
+   "name": "App_Store_2.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/App_Store_2.png"
+  }, 
+  {
+   "name": "Apple.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple.png"
+  }, 
+  {
+   "name": "Apple_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_1.png"
+  }, 
+  {
+   "name": "Apple_Developer.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_Developer.png"
+  }, 
+  {
+   "name": "Apple_Music.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_Music.png"
+  }, 
+  {
+   "name": "Apple_Music_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_Music_1.png"
+  }, 
+  {
+   "name": "Apple_News.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_News.png"
+  }, 
+  {
+   "name": "Apple_TV.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_TV.png"
+  }, 
+  {
+   "name": "Apple_TV_Plus.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_TV_Plus.png"
+  }, 
+  {
+   "name": "Apple_Update.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Apple_Update.png"
+  }, 
+  {
+   "name": "Auto.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Auto.png"
+  }, 
+  {
+   "name": "Available.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Available.png"
+  }, 
+  {
+   "name": "Available_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Available_1.png"
+  }, 
+  {
+   "name": "Back.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Back.png"
+  }, 
+  {
+   "name": "Block.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Block.png"
+  }, 
+  {
+   "name": "Direct.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Direct.png"
+  }, 
+  {
+   "name": "Disney+.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Disney%2B.png"
+  }, 
+  {
+   "name": "Disney.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Disney.png"
+  }, 
+  {
+   "name": "Download.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Download.png"
+  }, 
+  {
+   "name": "Emby.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Emby.png"
+  }, 
+  {
+   "name": "Epic_Games.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Epic_Games.png"
+  }, 
+  {
+   "name": "FOX.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/FOX.png"
+  }, 
+  {
+   "name": "Facebook.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Facebook.png"
+  }, 
+  {
+   "name": "Filter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Filter.png"
+  }, 
+  {
+   "name": "Final.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Final.png"
+  }, 
+  {
+   "name": "Find_My.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Find_My.png"
+  }, 
+  {
+   "name": "Game.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Game.png"
+  }, 
+  {
+   "name": "Game_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Game_1.png"
+  }, 
+  {
+   "name": "GitHub.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/GitHub.png"
+  }, 
+  {
+   "name": "GitHub_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/GitHub_Letter.png"
+  }, 
+  {
+   "name": "Global.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Global.png"
+  }, 
+  {
+   "name": "Gmail.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Gmail.png"
+  }, 
+  {
+   "name": "Google.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Google.png"
+  }, 
+  {
+   "name": "Google_Drive.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Google_Drive.png"
+  }, 
+  {
+   "name": "Google_Search.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Google_Search.png"
+  }, 
+  {
+   "name": "HBO.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/HBO.png"
+  }, 
+  {
+   "name": "HBO_GO.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/HBO_GO.png"
+  }, 
+  {
+   "name": "HBO_Max.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/HBO_Max.png"
+  }, 
+  {
+   "name": "IEPL.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/IEPL.png"
+  }, 
+  {
+   "name": "IPLC.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/IPLC.png"
+  }, 
+  {
+   "name": "Infuse.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Infuse.png"
+  }, 
+  {
+   "name": "Instagram.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Instagram.png"
+  }, 
+  {
+   "name": "Instagram_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Instagram_1.png"
+  }, 
+  {
+   "name": "Line.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Line.png"
+  }, 
+  {
+   "name": "Linkedin.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Linkedin.png"
+  }, 
+  {
+   "name": "Loop.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Loop.png"
+  }, 
+  {
+   "name": "Magic.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Magic.png"
+  }, 
+  {
+   "name": "Mail.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Mail.png"
+  }, 
+  {
+   "name": "Media.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Media.png"
+  }, 
+  {
+   "name": "Microsoft.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Microsoft.png"
+  }, 
+  {
+   "name": "Music.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Music.png"
+  }, 
+  {
+   "name": "Netease_Music.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Netease_Music.png"
+  }, 
+  {
+   "name": "Netease_Music_Unlock.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Netease_Music_Unlock.png"
+  }, 
+  {
+   "name": "Netflix.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Netflix.png"
+  }, 
+  {
+   "name": "Netflix_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Netflix_Letter.png"
+  }, 
+  {
+   "name": "OneDrive.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/OneDrive.png"
+  }, 
+  {
+   "name": "PayPal.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/PayPal.png"
+  }, 
+  {
+   "name": "Podcast.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Podcast.png"
+  }, 
+  {
+   "name": "Prime_Video.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Prime_Video.png"
+  }, 
+  {
+   "name": "Proxy.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Proxy.png"
+  }, 
+  {
+   "name": "Puzzle.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Puzzle.png"
+  }, 
+  {
+   "name": "QQ.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/QQ.png"
+  }, 
+  {
+   "name": "Quantumult_X.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Quantumult_X.png"
+  }, 
+  {
+   "name": "Reject.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Reject.png"
+  }, 
+  {
+   "name": "Rocket.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Rocket.png"
+  }, 
+  {
+   "name": "SSID.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/SSID.png"
+  }, 
+  {
+   "name": "SSID_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/SSID_1.png"
+  }, 
+  {
+   "name": "SSL.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/SSL.png"
+  }, 
+  {
+   "name": "Server.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Server.png"
+  }, 
+  {
+   "name": "Siri.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Siri.png"
+  }, 
+  {
+   "name": "Speedtest.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Speedtest.png"
+  }, 
+  {
+   "name": "Spotify.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Spotify.png"
+  }, 
+  {
+   "name": "Stack.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Stack.png"
+  }, 
+  {
+   "name": "Stash.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Stash.png"
+  }, 
+  {
+   "name": "Static.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Static.png"
+  }, 
+  {
+   "name": "Static_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Static_1.png"
+  }, 
+  {
+   "name": "Steam.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Steam.png"
+  }, 
+  {
+   "name": "Telegram.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Telegram.png"
+  }, 
+  {
+   "name": "TestFlight.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/TestFlight.png"
+  }, 
+  {
+   "name": "TikTok.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/TikTok.png"
+  }, 
+  {
+   "name": "Twitter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Twitter.png"
+  }, 
+  {
+   "name": "ULB.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ULB.png"
+  }, 
+  {
+   "name": "ULB_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ULB_1.png"
+  }, 
+  {
+   "name": "VIP.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/VIP.png"
+  }, 
+  {
+   "name": "WeChat.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/WeChat.png"
+  }, 
+  {
+   "name": "Weibo.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Weibo.png"
+  }, 
+  {
+   "name": "WiFi.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/WiFi.png"
+  }, 
+  {
+   "name": "Windows.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Windows.png"
+  }, 
+  {
+   "name": "Windows_11.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Windows_11.png"
+  }, 
+  {
+   "name": "World_Map.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/World_Map.png"
+  }, 
+  {
+   "name": "Xbox.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Xbox.png"
+  }, 
+  {
+   "name": "YouTube.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube.png"
+  }, 
+  {
+   "name": "YouTube_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube_1.png"
+  }, 
+  {
+   "name": "YouTube_2.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube_2.png"
+  }, 
+  {
+   "name": "YouTube_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube_Letter.png"
+  }, 
+  {
+   "name": "YouTube_Letter_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube_Letter_1.png"
+  }, 
+  {
+   "name": "YouTube_Music.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube_Music.png"
+  }, 
+  {
+   "name": "bilibili.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/bilibili.png"
+  }, 
+  {
+   "name": "bilibili_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/bilibili_Letter.png"
+  }, 
+  {
+   "name": "bilibili_blue.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/bilibili_blue.png"
+  }, 
+  {
+   "name": "bilibili_blue_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/bilibili_blue_Letter.png"
+  }, 
+  {
+   "name": "iCloud.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/iCloud.png"
+  }, 
+  {
+   "name": "iQIYI.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/iQIYI.png"
+  }, 
+  {
+   "name": "iQIYI_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/iQIYI_Letter.png"
+  }, 
+  {
+   "name": "ximalaya.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ximalaya.png"
+  }, 
+  {
+   "name": "ximalaya_Letter.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ximalaya_Letter.png"
+  },  
+ ]
+}
