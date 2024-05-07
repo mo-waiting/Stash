@@ -1,7 +1,7 @@
 name: Google CN 重定向
 desc: 将 g.cn / google.cn 重定向到 google.com
 category: Google
-icon: https://cdn.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/Google.png
+icon: https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Google.png
 #>------
 
 http:
