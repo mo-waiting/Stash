@@ -182,6 +182,10 @@
    "name": "GitHub.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/GitHub.png"
   }, 
+   {
+   "name": "GitHub_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/GitHub_1.png"
+  }, 
   {
    "name": "GitHub_Letter.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/GitHub_Letter.png"
@@ -193,6 +197,10 @@
   {
    "name": "Gmail.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Gmail.png"
+  }, 
+  {
+   "name": "Gmail_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Gmail_1.png"
   }, 
   {
    "name": "Google.png",
@@ -294,6 +302,10 @@
    "name": "PayPal.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/PayPal.png"
   }, 
+   {
+   "name": "Pinterest.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Pinterest.png"
+  }, 
   {
    "name": "Podcast.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Podcast.png"
@@ -386,9 +398,17 @@
    "name": "TikTok.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/TikTok.png"
   }, 
+   {
+   "name": "Translate.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Translate.png"
+  }, 
   {
    "name": "Twitter.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Twitter.png"
+  }, 
+   {
+   "name": "Twitter_X.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Twitter_X.png"
   }, 
   {
    "name": "ULB.png",
@@ -417,6 +437,10 @@
   {
    "name": "Weibo.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Weibo.png"
+  }, 
+   {
+   "name": "WhatsApp.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/WhatsApp.png"
   }, 
   {
    "name": "WiFi.png",
