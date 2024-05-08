@@ -110,6 +110,22 @@
    "name": "Bypass.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Bypass.png"
   }, 
+   {
+   "name": "ChatGPT.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ChatGPT.png"
+  }, 
+ {
+   "name": "Cloud_Server.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Cloud_Server.png"
+  }, 
+ {
+   "name": "Cloud_Server_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Cloud_Server_1.png"
+  }, 
+ {
+   "name": "Cloud_Server_2.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Cloud_Server_2.png"
+  }, 
   {
    "name": "Direct.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Direct.png"
@@ -381,6 +397,14 @@
   {
    "name": "ULB_1.png",
    "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/ULB_1.png"
+  }, 
+   {
+   "name": "VPN.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/VPN.png"
+  }, 
+ {
+   "name": "VPN_1.png",
+   "url":  "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/VPN_1.png"
   }, 
   {
    "name": "VIP.png",
