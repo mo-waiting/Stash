@@ -6,19 +6,20 @@ desc: |-
 openUrl: "http://boxjs.com/#/app/iRingo.TestFlight"
 author: "VirgilClyne"
 homepage: "https://github.com/VirgilClyne"
+manual: "https://github.com/VirgilClyne/iRingo/wiki/✈-TestFlight"
 icon: "https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/TestFlight.png"
 
 http:
   mitm:
     - "testflight.apple.com"
   script:
-    - match: ^https?:\/\/testflight\.apple\.com\/(.+)(\?.*)?$
+    - match: ^https?:\/\/testflight\.apple\.com\/
       name: TestFlight.request
       type: request
       require-body: true
       timeout: 10
       argument:
-    - match: ^https?:\/\/testflight\.apple\.com\/(.+)(\?.*)?$
+    - match: ^https?:\/\/testflight\.apple\.com\/
       name: TestFlight.response
       type: response
       require-body: true
