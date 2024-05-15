@@ -1,0 +1,32 @@
+name: |-
+  Google人机验证
+desc: |-
+  Google搜索内容时并发使用多个策略/策略组，以避免可能出现的人机验证。注意：需要在模块参数填写策略/策略组名的正则表达式。
+icon: |-
+  https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/Google.png
+category: |-
+   NobyDa
+arguments: |-
+  策略正则,脚本引擎:auto
+arguments-desc: |-
+  策略正则：策略/策略组名的正则表达式，例如：\n^(🇸🇬|🇭🇰)\s.*\d+$ 如需同时使用所有策略/策略组可使用 .+ 表示。\n\n脚本引擎：jsc/webview/auto，默认auto。
+
+http:
+
+  mitm:
+    - "www.google.com*"
+
+  script:
+    - match: ^https:\/\/www\.google\.com(?:\.[a-z]+|)\/(?:search\?(?:|.+?&)q=|$)
+      name: "Google CAPTCHA_6"
+      type: response
+      require-body: true
+      max-size: 0
+      timeout: 10
+      argument: |-
+        {{{.+}}}
+
+script-providers:
+  "Google CAPTCHA_6":
+    url: https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Google_CAPTCHA.js
+    interval: 86400
