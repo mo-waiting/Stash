@@ -1,14 +1,13 @@
 name: |-
   Youtube (Music) Enhance
 desc: |-
-  适用于 Youtube & Youtube Music (IOS >= 15)
+  适用于 Youtube & Youtube Music
 icon: |-
   https://raw.githubusercontent.com/mo-waiting/Stash/main/icon/App-icon/YouTube.png
 arguments: |-
-  屏蔽上传按钮:true,屏蔽选段按钮:true,字幕翻译语言:zh-Hans,歌词翻译语言:zh-Hans
+  屏蔽上传按钮:true,屏蔽选段按钮:true,字幕翻译语言:zh-Hans,歌词翻译语言:zh-Hans,脚本执行引擎:jsc,启用调试模式:false
 arguments-desc: |-
-  - 屏蔽参数：[true, false] \n- 翻译参数：[语言代码, off]\n\n# 语言代码遵循 Google Translate Languages Codes, 当填入 off 时关闭翻译
-category: 去广告
+  - 屏蔽参数：[true, false] \n- 翻译参数：[语言代码, off] \n- 脚本引擎：[auto, jsc, webview]\n\n1. 语言代码遵循 Google Translate Languages Codes, 当填入 off 时关闭翻译\n2. 推荐使用 jsc 引擎，但你仍可以切换成 webview 体验 Surge 新特性\n3. 开启调试模式用于输出更多日志
 
 http:
 
@@ -21,21 +20,21 @@ http:
       ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad - reject-200
 
   script:
-    - match: ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|reel\/reel_watch_sequence)
+    - match: ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|reel\/reel_watch_sequence|get_watch)
       name: "youtube.request_12"
       type: request
       require-body: true
       max-size: -1
       binary-mode: true
 
-    - match: ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting)
+    - match: ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch)
       name: "youtube.response_13"
       type: response
       require-body: true
       max-size: -1
       binary-mode: true
       argument: |-
-        {"lyricLang":"zh-Hans","captionLang":"zh-Hans","blockUpload":true,"immersive":true}
+        {"lyricLang":"zh-Hans","captionLang":"zh-Hans","blockUpload":true,"blockImmersive":true,"debug":false}
 
 script-providers:
   "youtube.request_12":
