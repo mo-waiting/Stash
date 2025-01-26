@@ -1,0 +1,14 @@
+name: Google重定向
+desc: 将google.cn/google.com.hk重定向回google.com
+author: Coldvvater
+icon: "https://raw.githubusercontent.com/mo-waiting/Stash/refs/heads/main/icon/App-icon/Google.png"
+
+http:
+  mitm:
+    - g.cn
+    - '*.google.cn'
+    - '*.google.com.hk'
+  url-rewrite:
+    - ^http://g\.cn https://www.google.com transparent
+    - ^https?://www\.google\.cn https://www.google.com 302
+    - ^https?:\/\/(www.)?(google)\.com.hk https://www.google.com 302
