@@ -8,5 +8,5 @@ http:
     - '*.google.cn'
     - '*.google.com.hk'
   url-rewrite:
-    - ^https?://www\.google\.cn https://www.google.com 307
-    - ^https?:\/\/(www.)?(google)\.com.hk https://www.google.com 307
+    - ^https?://www\.google\.cn https://www.google.com 302
+    - ^https?:\/\/(www.)?(google)\.com.hk https://www.google.com 302
