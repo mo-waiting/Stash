@@ -4,7 +4,6 @@ icon: "https://raw.githubusercontent.com/mo-waiting/Stash/refs/heads/main/icon/A
 
 http:
   mitm:
-    - g.cn
-    - '*.google.cn'
+    - www.google.cn
   url-rewrite:
     - ^https?://www\.google\.cn https://www.google.com 302
